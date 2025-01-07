@@ -17,8 +17,8 @@ DELETE /exercises/:id - Remove um exercício existente
 
 Clone o repositório
 ```bash
-git clone [url-do-repositorio]
-cd [nome-do-repositorio]
+git clone https://github.com/vinicius-rabello/node-restful-api-boilerplate
+cd node-restful-api-boilerplate
 ```
 
 # Instale as dependências
