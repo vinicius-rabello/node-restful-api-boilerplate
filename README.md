@@ -40,5 +40,5 @@ DB_PORT=5432
 
 # Inicialize o servidor
 ```bash
-npm start src/app.js
+node src/app.js
 ```
