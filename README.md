@@ -30,11 +30,15 @@ npm install
 # Configure as variáveis de ambiente
 Crie um arquivo .env na raiz do projeto com as seguintes variáveis:
 
+```bash
 DB_HOST=localhost
 DB_USER=seu_usuario
 DB_PASS=sua_senha
 DB_NAME=nome_do_banco
 DB_PORT=5432
+```
 
 # Inicialize o servidor
-- npm start src/app.js
+```bash
+npm start src/app.js
+```
